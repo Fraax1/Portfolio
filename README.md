@@ -14,7 +14,7 @@ Ciao! Sono Francesco, uno studente sedicenne che frequenta l'ITIS Guglielmo Marc
 
 ---
 
-- 🔭 **Studente** al Guglielmo Marconi <img src="./home/francesco/Immagini/Importanti/marconi.webp" alt="Schermata del programma" width="500">
+- 🔭 **Studente** al Guglielmo Marconi <img src=".https://findglocal.com/IT/Verona/195886747102638/ITI-Guglielmo-Marconi)" alt="Schermata del programma" width="500">
 - 🌱 Learning: **Diving into the fundamentals of computer science and programming languages at ITIS Guglielmo Marconi.**
 - 💬 Ask me about: **Python basics, web development, and the latest tech trends.**
 - 📍 Based in: **Verona**
