@@ -4,7 +4,6 @@
 <p align="center">
   <a href="">Website</a> •
   <a href="https://twitter.com/">Twitter</a> •
-  <a href="https://linkedin.com/in/">LinkedIn</a> •
   <a href="https://github.com/Fraax">GitHub</a>
 </p>
 
