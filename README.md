@@ -1,7 +1,24 @@
-Ciao, qui troverai vari progetti che ho fatto nel corso del tempo, questo Portfolio lo inizio il 28 Ottobre 2026
-[![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Fraax1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![I linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=Fraax1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">👋 Hi there, I'm Francesco</h3>
 
-Sono uno studente di 16 anni presso l'istituto Guglielmo Marconi di Verona, ho deciso di intraprendere l'indirizzo di Telecomunicazioni per imparare come semplicemente riusciamo a comunicare anche a lunghe distanze.
-![Anteprima Progetto](./home/francesco/Immagini/Importanti/marconi.webp)
+<p align="center">
+  <a href="">Website</a> •
+  <a href="https://twitter.com/">Twitter</a> •
+  <a href="https://linkedin.com/in/">LinkedIn</a> •
+  <a href="https://github.com/Fraax">GitHub</a>
+</p>
+
+---
+
+Ciao! I’m Francesco, a passionate 16-year-old student at ITIS Guglielmo Marconi in Verona, exploring the exciting world of technology and coding.
+
+---
+
+- 🔭 Currently working as **Studente** at ****
+- 🌱 Learning: **Diving into the fundamentals of computer science and programming languages at ITIS Guglielmo Marconi.**
+- 💬 Ask me about: **Python basics, web development, and the latest tech trends.**
+- 📍 Based in: **Verona**
+- 📫 Reach me: [](mailto:)
+- ⚡ Fun fact: I once built a mini drone from scratch, and it actually flew!
+
+---
